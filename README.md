@@ -60,6 +60,5 @@ That’s it. Enjoy! You can use this program to apply any AI to any game or appl
 
 Many thanks to Sentdex for his original application to GTA V on Windows with InceptionNet (sorry man, I just had to do Vice City) and Jeremy / Rachel of fast.ai for their AMAZING course on Deep Learning.
 
-Self driving car video: https://www.youtube.com/watch?v=1O8nNedZ-l8    
 Sentdex: https://www.youtube.com/watch?v=ks4MPfMq8aQ&list=PLQVvvaa0QuDeETZEOy4VdocT7TOjfSA8a    
 Fast.ai: http://course.fast.ai/    
