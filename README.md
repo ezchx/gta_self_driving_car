@@ -33,7 +33,7 @@ a – left
 s – reverse    
 d – right    
 
-Whenever you press one of the keys, the program takes a screen shot and saves it to your computer. You can stop the program at any time by pressing the Esc key. You can save additional images by setting the starting number of images to the number of images you have saved so far and rerunning screen_grabber.ipynb.
+Whenever you press one of these keys, the program takes a screen shot and saves it to your computer. You can stop the program at any time by pressing the Esc key. You can save additional images by setting the starting number of images to the number of images you have saved so far and rerunning screen_grabber.ipynb.
 
 Since you need to balance the number of images by direction, the total dataset will equal the minimum number of images for a particular direction x the number of directions you use for your model. For my screen grabs, the totals were:
 
