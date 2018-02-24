@@ -49,7 +49,7 @@ Finally, copy 10%-20% of your training data to the corresponding “valid” dir
 Step 3 – Train the Model    
 Run train_vgg_model.ipynb. Notice that we are using the Keras VGG16 model with pre-trained weights, removing the output layer of 1,000 classes and replacing it with an output layer of 3 classes. Also, since we are setting all layers to trainable, the model requires a very small learning rate of 0.0001.
 
-Train the model. For my data, the best train / validation accuracy was 0.7973 / 0.7451 at 6 epochs. Your results may differ. Be sure to save the best trained model.
+Train the model. For my data, the best train / validation accuracy was 0.7973 / 0.7451 after 6 epochs. Your results may differ. Be sure to save the best trained model.
 
 Step 4 – Test the Model    
 Restart GTA, get in a car, and run test_vgg_model.ipynb. Be careful when toggling between windows because the Main Function will spew keyboard commands all over the place!
