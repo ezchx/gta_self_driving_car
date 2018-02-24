@@ -1,6 +1,6 @@
 # Grand Theft Auto Vice City Self Driving Car
 
-Trains a neural network to control the vehicles in Grand Theft Auto Vice City. Developed with Ubuntu 16.04, Python 3.6, Keras, and TensorFlow trained on a GTX 1080 ti.
+Trains a neural network to control the vehicles in Grand Theft Auto Vice City. Developed with Ubuntu 16.04, Python 3.6, Keras, and TensorFlow and trained on a GTX 1080 ti.
 
 Step 1 – Install GTA Vice City    
 Install PlayOnLinux and Wine on your computer. Set up an account on Steam and purchase GTA VC ($10). Configure Wine to emulate a virtual desktop of 800 x 600 and position the window in the upper left corner of your screen. This was the hardest part, so don't despair.
