@@ -1,6 +1,6 @@
 # Grand Theft Auto Vice City Self Driving Car
 
-[<a href="https://www.youtube.com/watch?v=1O8nNedZ-l8" target="_blank"><img src="https://github.com/ezchx/gta_self_driving_car/blob/master/Screenshot%202018-02-24%2013:26:06.png"></a>]
+<a href="https://www.youtube.com/watch?v=1O8nNedZ-l8" target="_blank"><img src="https://github.com/ezchx/gta_self_driving_car/blob/master/Screenshot%202018-02-24%2013:26:06.png"></a>
 
 Trains a neural network to control the vehicles in Grand Theft Auto Vice City. Developed with Ubuntu 16.04, Python 3.6, Keras, VGG16, and TensorFlow and trained on a GTX 1080 ti.
 
